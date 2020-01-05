@@ -2,13 +2,13 @@
 
 > Ce projet est realiser par ABDESSAMAD TELLAT / HAMZA ELBARMAKI / AZDINE ELHARITI
 <Br -----------------------------------------GESTION D'ABSENCE--------------------------------------</Br>
- en trois session admin/etidiant/prof/parent </Br>
+ En quatre session admin/etudiant/prof/parent </Br>
 vous pouvez acceder au projet en utilisant les identifiant suivant </Br>
- admin/*:spotkhnot@gmail.com  118421 </Br>
- etudient/*: 06@gmail.com    118421  </Br> 
- prof/*: baddi.youssef@gmail.com  user </Br>
- parent/*: 123@gmail.com  123</Br></Br>
-creer une DDB dans phpmyadmin nome ex:estsb apres changer lemplacement du projet dans :\xampp\htdocs
+ -admin/*:spotkhnot@gmail.com  118421 </Br>
+ -etudient/*: 06@gmail.com    118421  </Br> 
+ -prof/*: baddi.youssef@gmail.com  user </Br>
+ -parent/*: 123@gmail.com  123</Br></Br>
+Creer une DDB dans phpmyadmin nome ex:estsb apres changer lemplacement du projet dans :\xampp\htdocs
 apres go to the navigator and tap: http://localhost/tello/
 connect database and u can use project now!!
 

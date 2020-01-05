@@ -48,5 +48,7 @@ connect database and u can use project now!!
 
 ## 🚀 video
 
+ video part 1 = https://www.youtube.com/watch?v=DVN1TUgqIl8</Br>
+ video part 2 = https://www.youtube.com/watch?v=7jTx337GoWA</Br>
 
 

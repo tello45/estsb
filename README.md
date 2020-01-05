@@ -2,8 +2,8 @@
 
 > Ce projet est realiser par ABDESSAMAD TELLAT / HAMZA ELBARMAKI / AZDINE ELHARITI
 <Br -----------------------------------------GESTION D'ABSENCE--------------------------------------</Br>
- en trois session admin/etidiant/prof/parent
-vous pouvez acceder au projet en utilisant les identifiant suivant
+ en trois session admin/etidiant/prof/parent </Br>
+vous pouvez acceder au projet en utilisant les identifiant suivant </Br>
  admin/*:spotkhnot@gmail.com  118421 
  etudient/*: 06@gmail.com    118421
  prof/*: baddi.youssef@gmail.com  user

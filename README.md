@@ -1,7 +1,7 @@
 <h1 align="center">GESTION D'ABSENCE 👋</h1>
 
 > Ce projet est realiser par ABDESSAMAD TELLAT / HAMZA ELBARMAKI / AZDINE ELHARITI
-<p -----------------------------------------GESTION D'ABSENCE--------------------------------------</p>
+<Br -----------------------------------------GESTION D'ABSENCE--------------------------------------</Br>
 <pen trois session admin/etidiant/prof/parent
 vous pouvez acceder au projet en utilisant les identifiant suivant
 admin/*:spotkhnot@gmail.com  118421 
